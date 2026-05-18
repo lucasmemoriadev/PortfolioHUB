@@ -1,1 +1,1 @@
-
+console.log("PortfolioHUB funcionando");
