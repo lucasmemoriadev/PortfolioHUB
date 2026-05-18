@@ -27,6 +27,8 @@ Este repositório foi desenvolvido com o objetivo de armazenar projetos acadêmi
 ## GitHub Pages
 Site publicado:
 https://lucasmemoriadev.github.io/PortfolioHUB/
+## LinkedIn
+https://www.linkedin.com/in/lucas-memoria-81130034b/
 
 ## Autor
 Lucas Memoria
